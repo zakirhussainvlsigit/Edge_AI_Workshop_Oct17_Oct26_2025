@@ -1,6 +1,9 @@
 ---
 # Day2 onwards learning activities 
 
+| |
+|:---:|
+
 | Programming: Logic vs Learning |  |  |
 |:---:||:---:|
 |Traditional Logic | AI |
