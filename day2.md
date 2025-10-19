@@ -4,7 +4,7 @@
 
 | **Programming: Logic vs Learning**                   |
 |:----------------------------------------------------:|
-| **Traditional Logic** | **AI** |
+| **Traditional Logic**       | **AI**                 |
 |:----------------------|:----------------------------|
 | You write the rules | You feed it examples |
 | Code is predictable | It learns patterns |
