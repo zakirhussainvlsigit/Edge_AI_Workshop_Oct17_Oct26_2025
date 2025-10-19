@@ -2,10 +2,8 @@
 # Day2 onwards learning activities 
 
 
-    |Programming : Logic vs Learning|
+    |Programming: Logic vs Learning                   |
     |:---:|
-
-
 | **Traditional Logic** | **AI** |
 |:----------------------|:----------------------------|
 | You write the rules | You feed it examples |
