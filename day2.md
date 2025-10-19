@@ -23,3 +23,6 @@
     <td>Like a toddler learning by trial and error</td>
   </tr>
 </table>
+
+<img width="1264" height="686" alt="Screenshot 2025-10-19 221743" src="https://github.com/user-attachments/assets/09897948-e448-400d-9f07-6a12eac7e9dd" />
+
