@@ -1,6 +1,6 @@
 ---
 # Day2 onwards learning activities 
-
+---
 
 <table border="1" cellspacing="0" cellpadding="5" width="100%">
   <tr>
