@@ -1,11 +1,10 @@
 ---
 # Day2 onwards learning activities 
 
-<table>
-  <tr>
-    <th colspan="2" align="center">Programming : Logic vs Learning</th>
-  </tr>
-</table>
+
+    |Programming : Logic vs Learning|
+    |:---:|
+
 
 | **Traditional Logic** | **AI** |
 |:----------------------|:----------------------------|
