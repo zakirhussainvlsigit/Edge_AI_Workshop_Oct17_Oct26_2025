@@ -89,6 +89,8 @@ plt.scatter(dataset['Hours'],dataset['Scores'])
 plt.scatter(X,Y_pred,color='red')
 plt.show()
 
+print(model.slope,model.const)
+
 ```
 
 [Gradient Descent Unlocked - Build Your First AI Model From Scratch](https://colab.research.google.com/drive/1wmxUSlbn2_UM20fqcJB-5uXazHyMxu9A?usp=sharing)
